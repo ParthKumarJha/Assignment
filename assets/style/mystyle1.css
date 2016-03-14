@@ -170,3 +170,102 @@ padding: 10px;
 }
 
 
+
+
+@media only screen and (max-width: 480px) {
+    body {
+
+}
+
+.width-960 {
+	width: 100%;
+	margin: auto;  
+}
+
+img {
+	width: 100%;
+}
+.full {
+	width: 100%;
+}
+
+
+.dummy1 {
+	width: 100%;
+}
+.dummy2 {
+	width:100%;	
+	
+}
+.dummy3 {
+	width: 100%;	
+}
+
+
+.box-container {
+
+	width: 100%;
+	height:70%;
+	background:#EEEEEE;
+	margin: 0;
+	padding: 0;
+}
+
+.box-container .box  {
+	height:100%;
+	width: 100%;
+	display: block;
+	float: left;
+}
+
+.box_content {
+	vertical-align: center;
+	text-align: center;
+	padding: 20%;
+}
+
+
+
+.alignment {
+text-align: center;
+}
+
+.lstsec {
+
+position:relative;
+padding:20px;
+
+bottom: 0px;
+clear: both;
+}
+
+button {
+
+	border: none;
+	padding: 4px;
+}
+
+.butt{
+
+	position: absolute;
+	top: calc(90% - 15px);
+	right: 118px;
+}
+.space{
+	margin-left: 0%;
+    width: 100%;
+}
+
+
+.foot1 , .foot2 {
+	float: center;
+	width: 100%;
+
+}
+
+
+
+}
+
+
+
